@@ -6,4 +6,5 @@ Here you'll mainly find my attempts at developing `R` packages for computional t
 ## Find me around the web:
 - Personal <a href="https://almogsi.com">website</a> 🌐
 - <a href="https://almogsi.com/my_files/Almog_Simchon_CV.pdf">CV</a> 💼
+- <a href = "https://scholar.google.co.il/citations?user=HTQXYFQAAAAJ&hl=en"> Google Scholar </a> 🎓
 - Sharing #rstats memes on <a href="https://twitter.com/almogsi">Twitter</a> 🐦
