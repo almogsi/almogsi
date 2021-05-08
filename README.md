@@ -4,6 +4,6 @@ My name is Almog Simchon and I'm a PhD student at Ben-Gurion University of the N
 
 ### Find me around the web:
 - Personal <a href="https://almogsi.com">website</a> 🌐
-- <a href="https://almogsi.com/my_files/Almog_Simchon_CV.pdf">CV</a> 💼
+- <a href="https://drive.google.com/file/d/1v9H_5P97nLn5gJY68IMVZ0RdG9EoBczM/view?usp=sharing">CV</a> 💼
 - <a href = "https://scholar.google.co.il/citations?user=HTQXYFQAAAAJ&hl=en"> Google Scholar </a> 🎓
 - Sharing #rstats memes on <a href="https://twitter.com/almogsi">Twitter</a> 🐦
