@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-My name is Almog Simchon and I'm a postdoc at the School of Psychological Science at the University of Bristol. I'm doing social psychological research in domains of language, political psych, and emotion. Here you'll mainly find my attempts at developing R packages for computational text analysis. Some could actually be useful!
+I’m **Almog Simchon**, an Assistant Professor at **Ben-Gurion University of the Negev** and PI of the **Computational Social Psychology Lab**.
 
-### Find me around the web:
-- Personal <a href="https://almogsi.com">website</a> 🌐
-- <a href="https://drive.google.com/file/d/1v9H_5P97nLn5gJY68IMVZ0RdG9EoBczM/view?usp=sharing">CV</a> 💼
-- <a href = "https://scholar.google.co.il/citations?user=HTQXYFQAAAAJ&hl=en"> Google Scholar </a> 🎓
-- Sharing #rstats memes on <a href="https://twitter.com/almogsi">Twitter</a> 🐦
+My research sits at the intersection of **social psychology, language, and political psychology**, with a focus on misinformation, polarization, emotion, and computational approaches to studying social behavior.  
+On GitHub, you’ll mostly find my attempts to build **R packages and tools for computational text analysis**—some of which might even be useful.
+
+### Find me around the web
+- 🌐 Personal website: https://almogsi.com  
+- 💼 CV: https://drive.google.com/file/d/1v9H_5P97nLn5gJY68IMVZ0RdG9EoBczM/view?usp=sharing  
+- 🎓 Google Scholar: https://scholar.google.co.il/citations?user=HTQXYFQAAAAJ&hl=en  
